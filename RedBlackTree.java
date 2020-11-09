@@ -1,4 +1,4 @@
-package redBlackTrees;;
+package redBlackTrees;
 
 public class RedBlackTree<E extends Comparable<E>> extends BinarySearchTree<E> {
 

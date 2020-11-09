@@ -1,4 +1,4 @@
-package redBlackTrees;;
+package redBlackTrees;
 
 public class BinaryTreeTester {
     

@@ -1,4 +1,4 @@
-package redBlackTrees;;
+package redBlackTrees;
 
 // Simple Custom Runtime class for duplicate items
 @SuppressWarnings("serial")
